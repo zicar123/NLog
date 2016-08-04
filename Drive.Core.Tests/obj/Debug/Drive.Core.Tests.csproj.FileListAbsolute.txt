@@ -1,0 +1,10 @@
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Core.Tests\bin\Debug\FakeItEasy.dll
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Core.Tests\bin\Debug\nunit.framework.dll
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Core.Tests\bin\Debug\FakeItEasy.pdb
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Core.Tests\bin\Debug\FakeItEasy.xml
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Core.Tests\bin\Debug\nunit.framework.xml
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Core.Tests\obj\Debug\Drive.Core.Tests.csprojResolveAssemblyReference.cache
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Core.Tests\obj\Debug\Drive.Core.Tests.dll
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Core.Tests\obj\Debug\Drive.Core.Tests.pdb
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Core.Tests\bin\Debug\Drive.Core.Tests.dll
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Core.Tests\bin\Debug\Drive.Core.Tests.pdb

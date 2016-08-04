@@ -1,0 +1,4 @@
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Driver.Shared\bin\Debug\Driver.Shared.dll
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Driver.Shared\bin\Debug\Driver.Shared.pdb
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Driver.Shared\obj\Debug\Driver.Shared.dll
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Driver.Shared\obj\Debug\Driver.Shared.pdb

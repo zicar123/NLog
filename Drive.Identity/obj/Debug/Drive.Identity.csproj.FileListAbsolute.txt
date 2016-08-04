@@ -1,0 +1,7 @@
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Identity\bin\Debug\Ninject.dll
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Identity\bin\Debug\Ninject.xml
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Identity\obj\Debug\Drive.Identity.csprojResolveAssemblyReference.cache
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Identity\obj\Debug\Drive.Identity.dll
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Identity\obj\Debug\Drive.Identity.pdb
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Identity\bin\Debug\Drive.Identity.dll
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Identity\bin\Debug\Drive.Identity.pdb

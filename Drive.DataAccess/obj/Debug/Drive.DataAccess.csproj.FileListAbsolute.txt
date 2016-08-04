@@ -1,0 +1,12 @@
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.DataAccess\bin\Debug\EntityFramework.dll
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.DataAccess\bin\Debug\Ninject.dll
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.DataAccess\bin\Debug\EntityFramework.xml
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.DataAccess\bin\Debug\Ninject.xml
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.DataAccess\obj\Debug\Drive.DataAccess.csprojResolveAssemblyReference.cache
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.DataAccess\obj\Debug\Drive.DataAccess.dll
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.DataAccess\obj\Debug\Drive.DataAccess.pdb
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.DataAccess\bin\Debug\Drive.DataAccess.dll.config
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.DataAccess\bin\Debug\Drive.DataAccess.dll
+C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.DataAccess\bin\Debug\Drive.DataAccess.pdb
