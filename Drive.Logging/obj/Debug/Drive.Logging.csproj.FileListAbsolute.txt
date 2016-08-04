@@ -13,3 +13,13 @@ C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Logging\bin\Debug\EntityFramework.xm
 C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Logging\bin\Debug\EntityFramework.SqlServer.xml
 C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Logging\bin\Debug\NLog.xml
 C:\FILES\GitHub\NLog\BinaryDrive-NLog\Drive.Logging\bin\Debug\NLog.Web.xml
+C:\FILES\GitHub\NLog\NLog\Drive.Logging\bin\Debug\Drive.Logging.dll.config
+C:\FILES\GitHub\NLog\NLog\Drive.Logging\bin\Debug\Drive.Logging.dll
+C:\FILES\GitHub\NLog\NLog\Drive.Logging\bin\Debug\Drive.Logging.pdb
+C:\FILES\GitHub\NLog\NLog\Drive.Logging\bin\Debug\NLog.dll
+C:\FILES\GitHub\NLog\NLog\Drive.Logging\bin\Debug\NLog.Web.dll
+C:\FILES\GitHub\NLog\NLog\Drive.Logging\bin\Debug\NLog.xml
+C:\FILES\GitHub\NLog\NLog\Drive.Logging\bin\Debug\NLog.Web.xml
+C:\FILES\GitHub\NLog\NLog\Drive.Logging\obj\Debug\Drive.Logging.csprojResolveAssemblyReference.cache
+C:\FILES\GitHub\NLog\NLog\Drive.Logging\obj\Debug\Drive.Logging.dll
+C:\FILES\GitHub\NLog\NLog\Drive.Logging\obj\Debug\Drive.Logging.pdb
